@@ -23,3 +23,9 @@ example:
 
 To deactivate the virtualenv, simply type deactivate
 
+
+##LICENSE
+MIT License.
+
+##Contributing
+Feel free to send pull requests
