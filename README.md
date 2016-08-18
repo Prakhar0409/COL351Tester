@@ -7,7 +7,7 @@ Step 1: Copy tp.py and requirements.txt to the directory of your assignment code
  
 Step 2: Run ```source tp/bin/activate``` 
 
-Step 3: Run ```pip install -r requrements.txt``` 
+Step 3: Run ```pip install -r requirements.txt``` 
 
 Step 4: Start using the tester as in the usage 
 
