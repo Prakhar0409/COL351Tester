@@ -2,7 +2,10 @@
 inp = [line.rstrip('\n') for line in open('input.txt')]
 outp = [line.rstrip('\n') for line in open('output.txt')]
 
-
+#print outp
+if(len(outp[0])==1 and outp[0][0]=='0'):
+	print "Havent checked for invalid cases :("
+	exit()
 rows = inp[1].split(",")   
 cols = inp[2].split(",")
 
